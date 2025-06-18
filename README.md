@@ -183,4 +183,4 @@ if __name__ == '__main__':
 通过设置 `feature_mode` 的值，可以在两种特征模式之间轻松切换，从而比较不同特征提取方法对模型性能的影响。
 
 ---
-<img src="Jupyter Notebook" width="200" alt="截图">
+<img src="https://github.com/aurora307-max/xvjian/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250619015914.png" width="200" alt="截图">
